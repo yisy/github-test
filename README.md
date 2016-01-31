@@ -1,4 +1,5 @@
 Hello everyone!
 Switched to branch 'A';
 add fixb
-fixc 
+fixc
+feature-D
